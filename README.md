@@ -7,11 +7,11 @@
 
 :rocket:  &nbsp; Estudo Analise e Desenvolvimento de Sistemas na PUC-GO.
 
-:computer: Sou uma Front-end Developer.
+:computer: Sou uma Programer/Developer.
 
  <br/> :purple_heart: &nbsp; Interesse em projetos Front-end usando ReactJs e ReactNative.
- <br/> :blush: &nbsp; Estudante das stacks: ReactJS, Node.js, React Native & Typescript.
- <br/> :computer: &nbsp; Minha stack: JavaScript, HTML, CSS.
+ <br/> :blush: &nbsp; Estudante das stacks: C#, Java, pretendo estudar React, Node.js, Typescript.
+ <br/> :computer: &nbsp; Minha stack: Java, C#, JavaScript, HTML, CSS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados, NFL, dogs.
  <br/> :email: &nbsp; Entre em contato comigo: <a href="https://api.whatsapp.com/send?phone=5562981013929&text=Olá, Jaqueline!" alt="Whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-15d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/>
