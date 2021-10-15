@@ -9,9 +9,9 @@
 
 :computer: Sou uma Programer/Developer.
 
- <br/> :purple_heart: &nbsp; Interesse em projetos Front-end usando ReactJs e ReactNative.
+ <br/> :purple_heart: &nbsp; Interesse em projetos Back-end C#, .Net Framework, asp.net e React.
  <br/> :blush: &nbsp; Estudante das stacks: C#, Java, pretendo estudar React, Node.js, Typescript.
- <br/> :computer: &nbsp; Minha stack: Java, C#, JavaScript, HTML, CSS.
+ <br/> :computer: &nbsp; Minha stack: C#, .Net Framework, Java, JavaScript, HTML, CSS.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados, NFL, dogs.
  <br/> :email: &nbsp; Entre em contato comigo: <a href="https://api.whatsapp.com/send?phone=5562981013929&text=Olá, Jaqueline!" alt="Whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-15d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/>
