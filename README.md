@@ -7,8 +7,9 @@
 
 :rocket:  &nbsp; Estudo Analise e Desenvolvimento de Sistemas na PUC-GO.
 
- <br/> :blush: &nbsp; Estudante das stacks: C#, .Net Framework, SQL, Java, JavaScript, NodeJs, React, ReactNative, HTML, CSS, Bootstrap e Metodologia Ágeis -> Scrum
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados, NFL, dogs, desenho.
+ <br/> :blush: &nbsp; Estudante das stacks: SQL, C#, .Net Framework, Java, JavaScript, NodeJs, HTML, CSS. Frameworks: React, ReactNative, Bootstrap.
+ <br/> :computer: &nbsp; Metodologias: Scrum/ PMI, Swebook, Kanban, Six Sigma.
+ <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, seriados, NFL, dogs, desenho.
  <br/> :email: &nbsp; Contato: 
  <a href="https://api.whatsapp.com/send?phone=5562981013929&text=Olá, Jaqueline!" alt="Whatsapp"><img src="https://img.shields.io/badge/-Whatsapp-15d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
  | 
