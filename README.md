@@ -7,7 +7,7 @@
 
 :rocket:  &nbsp; Estudo Analise e Desenvolvimento de Sistemas na PUC-GO.
 
- <br/> :blush: &nbsp; Estudante das stacks: SQL, JavaScript, Dart, D#. -> Frameworks: Flutter, Bootstrap, .NET, Tailwind, ReactJS.
+ <br/> :blush: &nbsp; Estudante das stacks: SQL, JavaScript, Dart, C#. -> Frameworks: Flutter, Bootstrap, .NET, Tailwind, ReactJS.
  <br/> :computer: &nbsp; Metodologias: Scrum/ PMI, Swebook, Kanban, Six Sigma.
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, esportes(NFL, futebol, vôlei), mountaibike, dogs.
  <br/> :email: &nbsp; Contato: 
