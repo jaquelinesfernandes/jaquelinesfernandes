@@ -9,7 +9,7 @@
 
  <br/> :blush: &nbsp; Estudante das stacks: SQL, JavaScript, Dart, C#. -> Frameworks: Flutter, Bootstrap, .NET, Tailwind, ReactJS.
  <br/> :computer: &nbsp; Metodologias: Scrum/ PMI, Swebook, Kanban, Six Sigma.
- <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, esportes(NFL, futebol, vôlei), mountaibike, dogs.
+ <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, esportes(NFL, futebol, vôlei), mountain bike, dogs.
  <br/> :email: &nbsp; Contato: 
  <a href="https://api.whatsapp.com/send?phone=5562981013929&text=Olá, Jaqueline!" alt="Whatsapp"><img src="https://img.shields.io/badge/-Whatsapp-15d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
  | 
