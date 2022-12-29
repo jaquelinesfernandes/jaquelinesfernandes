@@ -5,13 +5,13 @@
 
 ## Olá pessoal 👋
 
-:rocket:  &nbsp; Estudo Analise e Desenvolvimento de Sistemas na PUC-GO.
+:rocket:  &nbsp; Sou programadora de software, segue um pouco sobre mim:
 
- <br/> :blush: &nbsp; Estudante das stacks: SQL, JavaScript, Dart, C#. -> Frameworks: Flutter, Bootstrap, .NET, Tailwind, ReactJS.
- <br/> :computer: &nbsp; Metodologias: Scrum/ PMI, Swebook, Kanban, Six Sigma.
- <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, esportes(NFL, futebol, vôlei), mountain bike, dogs.
+ <br/> :blush: &nbsp; Stacks: C# & .NET, Dart & Flutter, JS & Bootstrap, SQL, Azure.
+ <br/> :computer: &nbsp; Metodologias: DevOps, Scrum, Kanban, CMMI-MPSbr, PMI e Six Sigma.
+ <br/> 💬 &nbsp; Sobre mim: Curto, esportes(NFL, futebol, vôlei), mountain bike, dogs, séries, e livros.
  <br/> :email: &nbsp; Contato: 
- <a href="https://api.whatsapp.com/send?phone=5562981013929&text=Olá, Jaqueline!" alt="Whatsapp"><img src="https://img.shields.io/badge/-Whatsapp-15d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
+ 
  | 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinefernandes/)](https://www.linkedin.com/in/jaquelinefernandes//) 
 | 
