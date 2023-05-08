@@ -2,8 +2,8 @@
 ## Hi, I'm Jaqueline S. Fernandes 👋
 
  <br/> :blush: &nbsp; Stacks: Dart & Flutter, Firebase, SQLlite.
- <br/> 👀 &nbsp; Interests: C# & .NET, Java Script, Node & Bootstrap, SQL, Azure.
- <br/> :computer: &nbsp; Methodologies: DevOps, Scrum, Kanban, CMMI-MPSbr, PMI e Six Sigma.
+ <br/> 👀 &nbsp; Interests: C# & .NET, JavaScript, NodeJS, Bootstrap, SQL, Azure, Aws.
+ <br/> :computer: &nbsp; Methodologies: DevOps, Scrum, Kanban, CMMI-MPSbr, PMI and Six Sigma.
  
  | 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinefernandes/)](https://www.linkedin.com/in/jaquelinefernandes//) 
