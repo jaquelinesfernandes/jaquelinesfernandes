@@ -4,7 +4,6 @@
  <br/> :blush: &nbsp; Stacks: Dart & Flutter, Firebase, SQLlite.
  <br/> 👀 &nbsp; Interests: C# & .NET, Java Script, Node & Bootstrap, SQL, Azure.
  <br/> :computer: &nbsp; Methodologies: DevOps, Scrum, Kanban, CMMI-MPSbr, PMI e Six Sigma.
- <br/> 💬 &nbsp; About me: Sports(NFL, soccer, volleyball), mountain bike, dogs, series, e books.
  
  | 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinefernandes/)](https://www.linkedin.com/in/jaquelinefernandes//) 
