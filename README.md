@@ -1,8 +1,4 @@
 
-
-
-# Jaqueline Silva Fernandes
-
 ## Hi, I'm Jaqueline S. Fernandes 👋
 
  <br/> :blush: &nbsp; Stacks: Dart & Flutter, Firebase, SQLlite.
