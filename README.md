@@ -1,7 +1,7 @@
 
 # **Jaqueline S. Fernandes 👋**
 
-Hey guys !! I am a Software Development from Brazil in the city of Goiânia. 
+Hey guys !! I am a Software Developer from Brazil in the city of Goiânia. 
 
 I'm studying mobile development and data science.
 
