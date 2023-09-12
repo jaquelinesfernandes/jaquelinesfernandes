@@ -1,16 +1,47 @@
 
-## Hi, I'm Jaqueline S. Fernandes 👋
+# **Jaqueline S. Fernandes 👋**
 
- <br/> :blush: &nbsp; Stacks: Dart & Flutter, Firebase, SQLlite.
- <br/> 👀 &nbsp; Interests: C# & .NET, JavaScript, NodeJS, Bootstrap, SQL, Azure, Aws.
- <br/> :computer: &nbsp; Methodologies: DevOps, Scrum, Kanban, CMMI-MPSbr, PMI and Six Sigma.
+Hey guys !! I am a Software Development from Brazil in the city of Goiânia. 
+
+I'm studying mobile development and data science.
+
+
+
+ ### Skills
+![Flutter](https://img.shields.io/badge/Flutter-30A3DC?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00000F?style=for-the-badge&logo=dart&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) 
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+![MySQL](https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-232F3E?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://aws.amazon.com/)
+![Firebase](https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SqLite-30A3DC?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Amazon Web Services](https://img.shields.io/badge/Power-BI-232F3E?style=for-the-badge&logo=power-bi&logoColor=white)](https://aws.amazon.com/)
+
+
+### Studying/Interests
+
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![T-SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
  
- | 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaquelinefernandes/)](https://www.linkedin.com/in/jaquelinefernandes//) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquelinefernandes6@gmail.com)](mailto:jaquelinefernandes6@gmail.com)
-| 
-<a href="https://www.twitter.com/jaquelinesilfe/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter">
+ ### Connect with me
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquelinefernandes6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinefernandes/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinesilfe/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinesilfe&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinesilfe&layout=donut)](https://github.com/jaquelinesilfe/github-readme-stats)
+
+
+
+
+
+
  
