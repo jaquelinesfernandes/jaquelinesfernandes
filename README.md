@@ -20,7 +20,7 @@ I'm studying mobile development and data science.
 [![Amazon Web Services](https://img.shields.io/badge/Power-BI-232F3E?style=for-the-badge&logo=power-bi&logoColor=white)](https://aws.amazon.com/)
 
 
-### Studying/Interests
+### Studying/Interests:
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -30,14 +30,20 @@ I'm studying mobile development and data science.
 [![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
  
- ### Connect with me
+ ### Connect with me:
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquelinefernandes6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinefernandes/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinesilfe/)
 
-### GitHub Stats
+### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinesilfe&layout=donut)](https://github.com/jaquelinesilfe/github-readme-stats)
+
+![Jaqueline Silfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquelinesilfe&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinesilfe&layout=compact&theme=dracula)
+
+
+
 
 
 
