@@ -27,7 +27,7 @@ I'm Jaqueline S. Fernandes 👋, a mobile software developer and data science st
    - [Analise de Dados Logística](https://github.com/jaquelinesilfe/PBI_Logistica/)
    - [Analise de Dados Financeiros](https://github.com/jaquelinesilfe/PBI_Financas/)
    - [Analise de Dados de Mercado](https://github.com/jaquelinesilfe/PBI_StockMarket/)
-   - [Analise de Dados de Contábeis](https://github.com/jaquelinesilfe/PBI_Contabil/)
+   - [Analise de Dados Contábeis](https://github.com/jaquelinesilfe/PBI_Contabil/)
    - [Analise de Dados de Recursos Humanos](https://github.com/jaquelinesilfe/PBI_RecursosHumanos/)
 
    
