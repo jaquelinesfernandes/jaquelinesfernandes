@@ -12,24 +12,36 @@ I'm Jaqueline S. Fernandes 👋, a data analyst and data science student.
 
 #### Get in touch:
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquelinefernandes6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinefernandes/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinesilfe/)
+<a href="https://www.linkedin.com/in/jaquelinefernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@jaquelinesfernandes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+ <br>
 
-#### Main Projects:
-  
-   - [Data Analytcs](https://github.com/jaquelinesilfe/vendas_varejo)
-   - [ Data Science](https://github.com/jaquelinesilfe/vendas_varejo)
-   - [SQL Scrips](https://github.com/jaquelinesilfe/eda_sql_campaignmkt)
-   - [PowerBI](https://github.com/jaquelinesilfe/PBI_EngenhariaProducao/)
-   - [Python](https://github.com/jaquelinesilfe/vendas_varejo)
- 
-   
+### Main Projects:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaquelinesfernandes&theme=dracula&repo=Data_Analytcs_Projects)](https://github.com/jaquelinesfernandes/Data_Analytcs_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaquelinesfernandes&theme=dracula&repo=Data_Science_Projects)](https://github.com/jaquelinesfernandes/Data_Science_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaquelinesfernandes&theme=dracula&repo=PowerBI_Projects)](https://github.com/jaquelinesfernandes/PowerBI_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaquelinesfernandes&theme=dracula&repo=SQL_Scripts)](https://github.com/jaquelinesfernandes/SQL_Scripts)
+<br>
+
+### Skills
+
+<p>
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+</p>
+
+<br>
 
 
 ####
-![Jaqueline Silfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquelinesilfe&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinesilfe&layout=compact&theme=dracula)
+![Jaqueline Silfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquelinesfernandes&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinesfernandes&layout=compact&theme=dracula)
 
 
 
