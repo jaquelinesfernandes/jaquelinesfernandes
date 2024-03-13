@@ -15,31 +15,15 @@ I'm Jaqueline S. Fernandes 👋, a data analyst and data science student.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinefernandes/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinesilfe/)
 
-### Projects:
+#### Main Projects:
+  
+   - [Data Analytcs](https://github.com/jaquelinesilfe/vendas_varejo)
+   - [ Data Science](https://github.com/jaquelinesilfe/vendas_varejo)
+   - [SQL Scrips](https://github.com/jaquelinesilfe/eda_sql_campaignmkt)
+   - [PowerBI](https://github.com/jaquelinesilfe/PBI_EngenhariaProducao/)
+   - [Python](https://github.com/jaquelinesilfe/vendas_varejo)
  
    
-   #### SQL:
-   
-   - [Limpeza e Tratamento-POSTGRESQL](https://github.com/jaquelinesilfe/eda_sql_campaignmkt)
-   - [EDA-Connection-SQL Server](https://github.com/jaquelinesilfe/eda_conection_sqlserver/)
-   
-   #### Python:
-   
-   - [EDA-Vendas-Varejo-Pandas](https://github.com/jaquelinesilfe/vendas_varejo)
-   - [Maching Learning para Segmentacao de Clientes](https://github.com/jaquelinesilfe/ML_PBI_Seg_Clientes)
-   - [Anomalias em Transacoes Financeiras com R](https://github.com/jaquelinesilfe/PBI_Anomalias_TransacoesFinanceiras)
-
-
-  #### Power BI:
-  
-   - [Analise Séries Temporais Engenharia de Produção](https://github.com/jaquelinesilfe/PBI_EngenhariaProducao/)
-   - [Analise Exploratoria Perfil Clientes](https://github.com/jaquelinesilfe/PBI_Exploratoria_Clientes/)
-   - [Analise de Fluxo de Caixa](https://github.com/jaquelinesilfe/PBI_FluxoCaixa/)
-   - [Analise de Dados Logística](https://github.com/jaquelinesilfe/PBI_Logistica/)
-   - [Analise de Dados Financeiros](https://github.com/jaquelinesilfe/PBI_Financas/)
-   - [Analise de Dados de Mercado](https://github.com/jaquelinesilfe/PBI_StockMarket/)
-   - [Analise de Dados Contábeis](https://github.com/jaquelinesilfe/PBI_Contabil/)
-   - [Analise de Dados de Recursos Humanos](https://github.com/jaquelinesilfe/PBI_RecursosHumanos/)
 
 
 
