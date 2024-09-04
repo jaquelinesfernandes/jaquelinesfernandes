@@ -5,14 +5,18 @@
 
 I'm Jaqueline S. Fernandes 👋 and I'm Data analyst and Data science student.
 
-- 🍅 Analyst and Developer at [Js tech](https://www.linkedin.com/company/js-techgo).
-- <img height="15" src="https://lwfiles000.mycourse.app/datascienceacademy-public/f5904fbd21fa7766fafbe89d9d428121.png"> Pos Graduate in Data science at [Data Science Academy](https://www.datascienceacademy.com.br/).
-- <img height="20" src="https://seeklogo.com/images/P/puc-goias-logo-06AD67F0EA-seeklogo.com.png"> Systems analysis and development technologist by [PUC-GO](https://www.pucgoias.edu.br/)
-- 🎓 Bachelor degree in Administration at [UFG-GO](https://ufg.br/)
+- 🍅 Analyst and Developer at [Js tech](https://www.linkedin.com/company/js-techgo)
+- <img height="15" src="https://lwfiles000.mycourse.app/datascienceacademy-public/f5904fbd21fa7766fafbe89d9d428121.png"> Pos Graduate in Data science at [Data Science Academy](https://www.datascienceacademy.com.br/)
+- <img height="20" src="https://seeklogo.com/images/P/puc-goias-logo-06AD67F0EA-seeklogo.com.png"> Systems analysis and development technologist by [PUC-GO](https://github.com/jaquelinesfernandes/my_certifications/blob/main/degree/ads_PUC/71754.png)
+- 🎓 Bachelor degree in Administration at [UFG-GO](https://github.com/jaquelinesfernandes/my_certifications/blob/main/degree/ba_ufg/Diploma%20Graduação.pdf)
 - 🎖️ Certificações:
    - <img height="20" src="https://miro.medium.com/max/1000/1*EnlxKqKhibp-p9fEzvfrlA.png"> [Certificated Microsoft Azure Fundamentals](https://www.credly.com/badges/7a70e554-4c7b-4ec4-8992-ccd6d4ed4a0d/public_url)
-   - <img height="20" src="https://repost.aws/static/images/aws.png"> [AWS Cloud Practitioner Essentials](https://skillbuilder.aws)
-   - <img height="20" src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png"> [Business Intelligence Foundation Professional Certification - BIFPC™](https://www.credly.com/badges/7a70e554-4c7b-4ec4-8992-ccd6d4ed4a0d/public_url](https://www.credly.com/badges/2dbc1ecc-1e71-4328-a9fc-b32487f6a24f/public_url))
+   - <img height="20" src="https://repost.aws/static/images/aws.png"> [AWS Cloud Practitioner Essentials](https://github.com/jaquelinesfernandes/my_certifications/blob/main/certificated/aws/134_3_2615231_1713880243_AWS%20Course%20Completion%20Certificate.pdf)
+   - <img height="20" src="https://images.credly.com/size/340x340/images/9a13a2d2-c007-4260-81bd-bf5d1ffb9223/image.png"> [Business Intelligence Foundation Professional Certification - BIFPC™](https://www.credly.com/badges/2dbc1ecc-1e71-4328-a9fc-b32487f6a24f)
+   - <img height="15" src="https://www.scrumstudy.com/Scrum-Images/logo-64.png"> [Scrum Fundamentals Certified](https://github.com/jaquelinesfernandes/my_certifications/blob/main/certificated/others/Certificate%20-%20Scrum%20Fundamentals%20-%20SCRUM%20study.pdf)
+   - <img height="15" src="https://www.scrumstudy.com/Scrum-Images/logo-64.png"> [Six Sigma Yellow Belt](https://github.com/jaquelinesfernandes/my_certifications/blob/main/certificated/others/Certificate%20-%206%20Sigma%20Yellow%20Belt%20-%20SCRUM%20Study.pdf)
+
+
 
 
 #### Skills:
