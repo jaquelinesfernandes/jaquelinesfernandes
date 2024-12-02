@@ -46,10 +46,10 @@ I'm Jaqueline S. Fernandes 👋 and I'm Data analyst and Data science student.
 <a href="https://medium.com/@jaquelinesfernandes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  <br>
 #### Resum: 
-[Curriculo - Jaqueline](https://github.com/jaquelinesfernandes/My_Resum/blob/main/Jaqueline%20Fernandes%20-%20Analista%20de%20Dados.1.0.pdf)
+[Curriculo - Jaqueline](https://github.com/jaquelinesfernandes/My_Resum/blob/main/Jaqueline%20Fernandes%20-%20Analista%20de%20Dados.1.1.pdf)
 #### Portifolio:
 
- 📔 [Data Science Portifolio](https://jaquelinesfernandes.github.io/Data_Science_Portifolio/)
+ 📔 [Data Science Portifolio - Em Construção](https://jaquelinesfernandes.github.io/Data_Science_Portifolio/)
 
 
 
