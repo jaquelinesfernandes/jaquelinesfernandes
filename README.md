@@ -35,7 +35,6 @@ I'm Jaqueline S. Fernandes 👋 and I'm Data analyst and Data science student.
  
  🍅 [Resum](https://github.com/jaquelinesfernandes/My_Resum/blob/main/Jaqueline%20Fernandes%20-%20Analista%20de%20Dados.1.1.pdf)
 
- 📔 [Website - Em Construção](https://jaquelinesfernandes.github.io/Data_Science_Portifolio/)
 
 
 
