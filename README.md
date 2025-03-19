@@ -13,18 +13,18 @@ I'm Jaqueline S. Fernandes 👋 and I'm Data analyst and Data science student.
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"> &nbsp;&nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> &nbsp; &nbsp;
-    <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"> &nbsp; &nbsp;
+    <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"> &nbsp; &nbsp;
     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> &nbsp; &nbsp;
-    <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"> &nbsp; &nbsp;
+    
      
 </p>
 
