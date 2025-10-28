@@ -36,22 +36,6 @@ Acredito no poder dos dados para transformar o mundo. Tenho experiência em stor
 
 ### 📌 Projetos em Destaque
 
-#### 🚀 Business Inteligence e Power BI
-
-| Projeto | Descrição |
-|--------|-----------|
-| [Anomalias em Transações Financeiras](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_Anomalias_TransacoesFinanceiras) | Detecção de anomalias em transações financeiras usando análise exploratória. |
-| [Dados Contabéis](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_Contabil) | Visualizações de dados contábeis e financeiros para controle interno. |
-| [Indicadores de Engenharia Produção](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_EngenhariaProducao) | Indicadores de produção e eficiência em processos industriais. |
-| [Analise Exploratori de Perfil de Clientes](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_Exploratoria_Clientes) | Análise exploratória de perfil e comportamento de clientes. |
-| [Analise Financeira](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_Financas) | Painéis financeiros com foco em receitas, despesas e rentabilidade. |
-| [Fluxo de Caixa e Projeções](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_FluxoCaixa) | Monitoramento do fluxo de caixa e projeções financeiras. |
-| [Indicadores de Logistica](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_Logistica) | Indicadores logísticos como entregas, rotas e tempo de transporte. |
-| [Segmentação de Clientes com Machine Learning](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_ML_Seg_Clientes) | Segmentação de clientes com técnicas de machine learning. |
-| [Analise de Indicadores de Recursos Humanos](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_RecursosHumanos) | Análise de dados de RH: admissões, demissões, desempenho e diversidade. |
-| [Visualições de Mercado de Ações](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main/PBI_StockMarket) | Visualizações de mercado de ações e indicadores financeiros. |
-
-
 #### 📌 Machine Learning
 - 🤖 [Fatores de Turnover em funcionarios](https://github.com/jaquelinesfernandes/Employee_Satisfaction) : Este projeto implementa modelos de aprendizado de máquina (Regressão Logística) para identificar os principais fatores que contribuem para a rotatividade de funcionários (employee turnover).
 - 📈 [Análise e Previsão de Vendas com Séries Temporais](https://github.com/jaquelinesfernandes/Analysis_Sales_TimesSeries): Projeto tem objetivo analisar o comportamento das vendas ao longo do tempo e construir modelos preditivos para auxiliar no planejamento estratégico, utilizando técnicas de séries temporais.
@@ -73,6 +57,10 @@ Acredito no poder dos dados para transformar o mundo. Tenho experiência em stor
 - 🎯 [Pipeline Airbyte e Databricks](https://github.com/jaquelinesfernandes/Pipeline_Airbyte_Databricks) : Utilizando plataformas Airbyte para conectar o banco de dados local PostgreSQL com docker, com a plataforma Databricks. Através da Plataforma Databricks, executar um notebook de pipeline de análise de dados.
 - 🧾[EDA com SQL Server](https://github.com/jaquelinesfernandes/eda_conection_sqlserver) : Analise Exploratória de Dados conexão com Database SQL Server, e scripts para visualização gráfica.
 
+
+
+#### 🚀 Business Inteligence e Power BI
+[Projetos em Power BI](https://github.com/jaquelinesfernandes/PowerBI_Projects/tree/main)
 
 ### 📈 Estatísticas GitHub
 
