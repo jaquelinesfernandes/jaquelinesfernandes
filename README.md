@@ -37,6 +37,7 @@ Acredito no poder dos dados para transformar o mundo. Tenho experiência em stor
 ### 📌 Projetos em Destaque
 
 #### 📌 Machine Learning
+- 🎯 [Previsão de Fraudes em Transações de Criptomoedas](https://github.com/jaquelinesfernandes/Predict_Fraud_Crypto/tree/main) : Este projeto utiliza técnicas de aprendizado de máquina para prever fraudes em transações de criptomoedas, com foco no modelo XGBoost.
 - 🤖 [Fatores de Turnover em funcionarios](https://github.com/jaquelinesfernandes/Employee_Satisfaction) : Este projeto implementa modelos de aprendizado de máquina (Regressão Logística) para identificar os principais fatores que contribuem para a rotatividade de funcionários (employee turnover).
 - 📈 [Análise e Previsão de Vendas com Séries Temporais](https://github.com/jaquelinesfernandes/Analysis_Sales_TimesSeries): Projeto tem objetivo analisar o comportamento das vendas ao longo do tempo e construir modelos preditivos para auxiliar no planejamento estratégico, utilizando técnicas de séries temporais.
 - 🧪 [Analise de Sentimentos em Reviews de Filmes no IMDB](https://github.com/jaquelinesfernandes/Sentiment_Analysis_MovieReviewsIMDB): Usando algoritmos probabilísticos para classificar o sentimento em avaliações de usuários de um conjunto de dados com 50.000 críticas de filmes. Projeto que utiliza processamento de linguagem natural e algoritmos de aprendizado supervisionado.
